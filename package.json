@@ -1,0 +1,22 @@
+{
+  "name": "angular-protractor-example",
+  "version": "0.0.0",
+  "author": "Michael Herman <michael@mherman.org> (http://mherman.org)",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^3.2.0"
+  },
+  "devDependencies": {
+    "chai": "2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-connect": "2.2.0",
+    "gulp-protractor": "0.0.12",
+    "karma": "0.12.31",
+    "karma-chai": "0.1.0",
+    "karma-chrome-launcher": "0.1.7",
+    "karma-firefox-launcher": "^1.0.1",
+    "karma-mocha": "^0.1.10",
+    "mocha": "^3.2.0",
+    "protractor": "2.0.0"
+  }
+}
